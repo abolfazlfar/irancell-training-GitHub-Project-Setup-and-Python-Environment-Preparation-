@@ -1,0 +1,1 @@
+# irancell-training-GitHub-Project-Setup-and-Python-Environment-Preparation-
